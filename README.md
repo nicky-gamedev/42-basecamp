@@ -1,5 +1,5 @@
 # 42-basecamp
-All my shell script and C works during 42 basecamp (31/may - 19/jun)
+All my shell script and C works during 42 basecamp (31/may/2021 - 19/jun/2021)
 
 | Project | Success Rate | Date Finished |
 | ------- | ---------- | ------------- |
